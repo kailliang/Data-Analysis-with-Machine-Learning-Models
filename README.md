@@ -18,7 +18,9 @@ Creating and selecting the best features for data analysis.
 Dealing with class imbalance with SMOTE
 ## Feature Correlation and Importance
 Reporting feature correlation heat map and feature importance score.
-![correlation](https://github.com/kailliang/Data-Science-with-Machine-Learning-Models/assets/56094206/15fd624a-7f86-4a6f-aafa-035bba6d511d)
+
+![correlation Medium](https://github.com/kailliang/Data-Science-with-Machine-Learning-Models/assets/56094206/94327576-1e7e-4f78-8bc4-ea58cd68d718)
+
 
 ## Grid Search
 Searching for best parameters with Grid Search.
@@ -31,7 +33,9 @@ Reporting:
 - Recall
 - F1 score
 - ROC AUC
+
 ![ROC](https://github.com/kailliang/Data-Science-with-Machine-Learning-Models/assets/56094206/aaff1c1a-2bdb-4076-a29f-d06c09c0fbee)
 
 - Confusion Matrix
+
 ![Confusion](https://github.com/kailliang/Data-Science-with-Machine-Learning-Models/assets/56094206/9b107f2d-afaf-42b1-9f3d-1dc23f8e75f8)
